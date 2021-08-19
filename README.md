@@ -1,2 +1,1 @@
-# blogingles
-blogingles
+# https://jarjv.github.io/blogingles/
